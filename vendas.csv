@@ -1,0 +1,501 @@
+ID_Venda;data;Produto;Categoria;Regiao;Vendedor;Quantidade;  Valor_unidade  ;  Valor_Total  ;  Meta_funcionario  
+1;2024-12-20;Bermuda;Basquete;Sudeste;Renata;8;21;167;27.000
+2;2024-07-24;Chuteira;Futebol;Sudeste;Renata;5;25;123;27.000
+3;2024-07-27;Short de Compressão;Corrida;Sul;Ana;5;39;193;25.000
+4;2024-06-11;Chuteira;Futebol;Sul;Ana;8;61;491;25.000
+5;2024-07-04;Bermuda;Basquete;Norte;Vanessa;9;52;470;25.000
+6;2025-03-12;Tênis de Corrida;Corrida;Centro-Oeste;Paulo;3;128;384;30.000
+7;2024-06-11;Bermuda;Basquete;Sul;Ana;6;82;492;25.000
+8;2024-12-20;Tênis de Basquete;Basquete;Sudeste;Renata;10;5;46;27.000
+9;2024-06-10;Short de Compressão;Corrida;Sudeste;Renata;9;6;54;27.000
+10;2024-07-02;Meia Esportiva;Corrida;Norte;Vanessa;10;36;365;25.000
+11;2024-12-17;Camisa Dry Fit;Corrida;Centro-Oeste;Paulo;6;80;480;30.000
+12;2024-11-23;Luvas;Musculação;Nordeste;Carlos;10;48;476;25.000
+13;2024-12-04;Camisa de Time;Futebol;Centro-Oeste;Paulo;1;453;453;30.000
+14;2024-05-20;Meia Esportiva;Corrida;Norte;Vanessa;6;61;363;25.000
+15;2024-11-26;Corda de Pular;Musculação;Centro-Oeste;Paulo;5;64;322;30.000
+16;2025-01-15;Camisa Dry Fit;Corrida;Sul;Ana;3;114;342;25.000
+17;2024-07-04;Bola de Futebol;Futebol;Norte;Vanessa;4;19;77;25.000
+18;2024-06-29;Regata de Time;Basquete;Centro-Oeste;Paulo;8;30;244;30.000
+19;2024-07-14;Tênis de Basquete;Basquete;Sudeste;Renata;6;50;301;27.000
+20;2024-05-27;Bola de Futebol;Futebol;Sudeste;Renata;3;21;62;27.000
+21;2024-08-02;Anilha;Musculação;Sudeste;Renata;2;21;41;27.000
+22;2024-10-19;Tênis de Corrida;Corrida;Centro-Oeste;Paulo;9;30;272;30.000
+23;2024-11-11;Camisa Dry Fit;Corrida;Sudeste;Renata;8;24;192;27.000
+24;2024-06-17;Meião;Futebol;Norte;Vanessa;1;499;499;25.000
+25;2024-05-21;Boné Esportivo;Corrida;Sudeste;Renata;1;60;60;27.000
+26;2024-07-27;Cotoveleira;Basquete;Centro-Oeste;Paulo;8;12;98;30.000
+27;2025-01-31;Meia Esportiva;Corrida;Sul;Ana;4;121;486;25.000
+28;2025-03-10;Cotoveleira;Basquete;Norte;Vanessa;7;50;349;25.000
+29;2024-09-14;Camisa Dry Fit;Corrida;Sudeste;Renata;3;58;175;27.000
+30;2024-11-27;Cinto de Musculação;Musculação;Sudeste;Renata;3;140;419;27.000
+31;2024-04-04;Bola de Futebol;Futebol;Norte;Vanessa;10;15;146;25.000
+32;2024-11-04;Tênis de Corrida;Corrida;Sudeste;Renata;3;52;156;27.000
+33;2024-11-15;Camisa Dry Fit;Corrida;Norte;Vanessa;9;32;286;25.000
+34;2024-06-18;Meia Esportiva;Corrida;Nordeste;Carlos;9;52;466;25.000
+35;2024-08-17;Meia Esportiva;Corrida;Norte;Vanessa;10;10;95;25.000
+36;2025-02-15;Halter;Musculação;Norte;Vanessa;7;65;458;25.000
+37;2025-02-06;Boné Esportivo;Corrida;Norte;Vanessa;4;80;320;25.000
+38;2024-08-19;Anilha;Musculação;Centro-Oeste;Paulo;5;100;499;30.000
+39;2024-03-21;Tênis de Corrida;Corrida;Sul;Ana;2;44;87;25.000
+40;2024-06-06;Boné Esportivo;Corrida;Nordeste;Carlos;6;50;300;25.000
+41;2024-09-01;Luvas;Musculação;Centro-Oeste;Paulo;1;171;171;30.000
+42;2024-12-18;Corda de Pular;Musculação;Nordeste;Carlos;2;209;417;25.000
+43;2024-11-27;Halter;Musculação;Norte;Vanessa;10;47;471;25.000
+44;2024-12-04;Camisa Dry Fit;Corrida;Nordeste;Carlos;6;27;164;25.000
+45;2025-02-04;Corda de Pular;Musculação;Sul;Ana;9;9;83;25.000
+46;2024-06-30;Bermuda;Basquete;Sudeste;Renata;6;39;236;27.000
+47;2025-02-11;Cinto de Musculação;Musculação;Sudeste;Renata;2;27;54;27.000
+48;2024-07-15;Boné Esportivo;Corrida;Norte;Vanessa;8;3;25;25.000
+49;2024-10-26;Anilha;Musculação;Sudeste;Renata;7;33;233;27.000
+50;2024-10-22;Chuteira;Futebol;Sudeste;Renata;7;70;489;27.000
+51;2024-12-20;Chuteira;Futebol;Sudeste;Renata;4;67;267;27.000
+52;2024-03-31;Anilha;Musculação;Centro-Oeste;Paulo;1;382;382;30.000
+53;2024-04-21;Bola de Futebol;Futebol;Norte;Vanessa;1;395;395;25.000
+54;2024-09-05;Short de Compressão;Corrida;Sul;Ana;5;84;422;25.000
+55;2024-10-31;Camisa de Time;Futebol;Centro-Oeste;Paulo;9;43;385;30.000
+56;2024-11-30;Chuteira;Futebol;Nordeste;Carlos;2;66;131;25.000
+57;2025-02-15;Calção;Futebol;Norte;Vanessa;8;41;332;25.000
+58;2024-11-17;Camisa de Time;Futebol;Sul;Ana;4;48;192;25.000
+59;2024-08-25;Chuteira;Futebol;Nordeste;Carlos;5;75;377;25.000
+60;2024-07-18;Bermuda;Basquete;Nordeste;Carlos;1;99;99;25.000
+61;2024-09-20;Corda de Pular;Musculação;Sul;Ana;3;92;275;25.000
+62;2024-10-21;Tênis de Basquete;Basquete;Nordeste;Carlos;6;80;480;25.000
+63;2025-03-10;Meia Esportiva;Corrida;Centro-Oeste;Paulo;4;97;388;30.000
+64;2025-01-08;Short de Compressão;Corrida;Sul;Ana;7;10;71;25.000
+65;2024-09-27;Cinto de Musculação;Musculação;Sul;Ana;6;6;33;25.000
+66;2025-01-18;Camisa de Time;Futebol;Sudeste;Renata;8;29;232;27.000
+67;2024-11-28;Boné Esportivo;Corrida;Sudeste;Renata;10;40;400;27.000
+68;2025-02-18;Cotoveleira;Basquete;Norte;Vanessa;6;6;39;25.000
+69;2024-08-31;Regata de Time;Basquete;Nordeste;Carlos;5;82;409;25.000
+70;2025-02-22;Cotoveleira;Basquete;Centro-Oeste;Paulo;4;44;178;30.000
+71;2024-10-06;Meia Esportiva;Corrida;Nordeste;Carlos;9;55;499;25.000
+72;2024-11-04;Cinto de Musculação;Musculação;Norte;Vanessa;10;6;56;25.000
+73;2024-11-08;Tênis de Corrida;Corrida;Norte;Vanessa;6;41;249;25.000
+74;2024-12-25;Cotoveleira;Basquete;Norte;Vanessa;1;22;22;25.000
+75;2025-02-01;Meião;Futebol;Sul;Ana;4;110;441;25.000
+76;2025-01-30;Boné Esportivo;Corrida;Nordeste;Carlos;10;47;468;25.000
+77;2025-02-06;Cotoveleira;Basquete;Sul;Ana;10;42;419;25.000
+78;2025-01-23;Halter;Musculação;Sudeste;Renata;1;150;150;27.000
+79;2024-10-11;Cinto de Musculação;Musculação;Sudeste;Renata;9;44;393;27.000
+80;2024-11-21;Boné Esportivo;Corrida;Nordeste;Carlos;5;15;77;25.000
+81;2024-08-10;Camisa Dry Fit;Corrida;Sudeste;Renata;9;53;476;27.000
+82;2025-01-09;Cotoveleira;Basquete;Norte;Vanessa;1;207;207;25.000
+83;2025-02-24;Tênis de Corrida;Corrida;Norte;Vanessa;1;394;394;25.000
+84;2024-06-12;Bermuda;Basquete;Norte;Vanessa;7;68;478;25.000
+85;2024-08-21;Bola de Futebol;Futebol;Centro-Oeste;Paulo;4;43;170;30.000
+86;2024-11-12;Regata de Time;Basquete;Nordeste;Carlos;3;119;356;25.000
+87;2024-05-10;Cotoveleira;Basquete;Sudeste;Renata;1;68;68;27.000
+88;2024-04-24;Calção;Futebol;Sul;Ana;2;182;364;25.000
+89;2025-01-23;Short de Compressão;Corrida;Nordeste;Carlos;8;25;197;25.000
+90;2024-12-16;Camisa de Time;Futebol;Sudeste;Renata;1;221;221;27.000
+91;2025-02-13;Tênis de Basquete;Basquete;Centro-Oeste;Paulo;9;35;319;30.000
+92;2025-02-13;Camisa de Time;Futebol;Sudeste;Renata;2;185;371;27.000
+93;2024-08-02;Halter;Musculação;Norte;Vanessa;3;102;306;25.000
+94;2024-11-21;Anilha;Musculação;Centro-Oeste;Paulo;9;31;282;30.000
+95;2024-08-17;Cinto de Musculação;Musculação;Nordeste;Carlos;5;80;401;25.000
+96;2024-09-25;Camisa Dry Fit;Corrida;Norte;Vanessa;9;45;403;25.000
+97;2024-04-13;Bermuda;Basquete;Sul;Ana;4;90;361;25.000
+98;2024-09-03;Cinto de Musculação;Musculação;Sudeste;Renata;2;143;286;27.000
+99;2025-03-06;Boné Esportivo;Corrida;Sul;Ana;7;27;186;25.000
+100;2025-03-18;Bermuda;Basquete;Sudeste;Renata;3;156;467;27.000
+101;2024-11-07;Cotoveleira;Basquete;Sul;Ana;4;112;447;25.000
+102;2024-05-28;Halter;Musculação;Centro-Oeste;Paulo;7;53;369;30.000
+103;2024-03-29;Corda de Pular;Musculação;Sul;Ana;3;103;309;25.000
+104;2024-11-18;Camisa de Time;Futebol;Sul;Ana;8;52;420;25.000
+105;2024-11-23;Camisa de Time;Futebol;Sudeste;Renata;2;163;326;27.000
+106;2024-04-25;Cinto de Musculação;Musculação;Sudeste;Renata;3;144;433;27.000
+107;2024-07-15;Cinto de Musculação;Musculação;Nordeste;Carlos;1;458;458;25.000
+108;2024-05-28;Anilha;Musculação;Centro-Oeste;Paulo;4;46;185;30.000
+109;2025-01-25;Luvas;Musculação;Sudeste;Renata;10;48;484;27.000
+110;2025-01-03;Corda de Pular;Musculação;Norte;Vanessa;1;481;481;25.000
+111;2024-04-04;Bermuda;Basquete;Norte;Vanessa;9;32;286;25.000
+112;2024-07-06;Cinto de Musculação;Musculação;Sudeste;Renata;9;45;401;27.000
+113;2024-06-20;Boné Esportivo;Corrida;Sul;Ana;6;28;169;25.000
+114;2024-07-15;Luvas;Musculação;Sudeste;Renata;2;97;194;27.000
+115;2025-02-23;Meia Esportiva;Corrida;Centro-Oeste;Paulo;9;42;375;30.000
+116;2024-08-20;Luvas;Musculação;Sul;Ana;9;18;161;25.000
+117;2025-01-07;Anilha;Musculação;Centro-Oeste;Paulo;4;31;123;30.000
+118;2024-03-26;Meião;Futebol;Sul;Thiago;10;8;84;25.000
+119;2024-07-12;Chuteira;Futebol;Sudeste;Renata;5;84;421;27.000
+120;2024-06-02;Bola de Basquete;Basquete;Norte;Vanessa;2;240;479;25.000
+121;2024-08-11;Bola de Futebol;Futebol;Sudeste;Neide;6;62;372;27.000
+122;2025-02-25;Camisa de Time;Futebol;Norte;Vanessa;3;35;104;25.000
+123;2024-07-01;Corda de Pular;Musculação;Sul;Thiago;7;62;434;25.000
+124;2024-11-20;Bola de Basquete;Basquete;Norte;Vanessa;6;44;263;25.000
+125;2024-09-05;Bola de Futebol;Futebol;Nordeste;Carlos;7;56;395;25.000
+126;2024-10-09;Tênis de Corrida;Corrida;Centro-Oeste;Paulo;9;23;205;30.000
+127;2024-09-21;Anilha;Musculação;Sul;Thiago;3;37;111;25.000
+128;2024-06-04;Boné Esportivo;Corrida;Norte;Vanessa;3;79;237;25.000
+129;2024-10-26;Short de Compressão;Corrida;Nordeste;Carlos;7;20;143;25.000
+130;2024-04-22;Tênis de Corrida;Corrida;Sudeste;Neide;4;35;139;27.000
+131;2024-09-06;Chuteira;Futebol;Norte;Vanessa;5;38;191;25.000
+132;2024-06-28;Anilha;Musculação;Nordeste;Carlos;10;37;366;25.000
+133;2024-11-17;Bola de Futebol;Futebol;Centro-Oeste;Paulo;8;46;368;30.000
+134;2024-09-18;Corda de Pular;Musculação;Sudeste;Neide;10;10;96;27.000
+135;2024-03-21;Cotoveleira;Basquete;Nordeste;Carlos;3;18;55;25.000
+136;2025-03-03;Meia Esportiva;Corrida;Sul;Thiago;3;59;176;25.000
+137;2024-08-08;Meia Esportiva;Corrida;Norte;Vanessa;10;10;99;25.000
+138;2024-11-01;Meião;Futebol;Sudeste;Neide;1;196;196;27.000
+139;2024-11-17;Anilha;Musculação;Centro-Oeste;Paulo;9;19;175;30.000
+140;2024-09-27;Anilha;Musculação;Sul;Thiago;7;19;131;25.000
+141;2024-04-07;Short de Compressão;Corrida;Norte;Vanessa;9;9;79;25.000
+142;2024-03-21;Meia Esportiva;Corrida;Nordeste;Carlos;9;16;148;25.000
+143;2024-04-29;Tênis de Basquete;Basquete;Sudeste;Neide;6;79;474;27.000
+144;2024-05-14;Tênis de Corrida;Corrida;Centro-Oeste;Paulo;4;93;372;30.000
+145;2024-07-08;Bermuda;Basquete;Sul;Thiago;7;53;368;25.000
+146;2024-05-01;Corda de Pular;Musculação;Nordeste;Carlos;6;13;81;25.000
+147;2025-03-01;Luvas;Musculação;Nordeste;Carlos;1;313;313;25.000
+148;2024-07-29;Boné Esportivo;Corrida;Sudeste;Neide;2;71;143;27.000
+149;2024-09-19;Meião;Futebol;Sul;Thiago;5;62;311;25.000
+150;2024-10-07;Tênis de Basquete;Basquete;Sul;Thiago;2;53;106;25.000
+151;2024-05-15;Bermuda;Basquete;Sudeste;Neide;10;46;456;27.000
+152;2024-04-01;Tênis de Basquete;Basquete;Centro-Oeste;Paulo;7;20;143;30.000
+153;2024-09-08;Boné Esportivo;Corrida;Sudeste;Neide;5;4;22;27.000
+154;2025-02-11;Camisa Dry Fit;Corrida;Norte;Vanessa;1;425;425;25.000
+155;2024-10-16;Camisa de Time;Futebol;Norte;Vanessa;8;13;102;25.000
+156;2024-11-09;Boné Esportivo;Corrida;Sul;Thiago;3;7;21;25.000
+157;2024-10-19;Tênis de Basquete;Basquete;Sudeste;Neide;3;45;136;27.000
+158;2024-11-13;Chuteira;Futebol;Norte;Vanessa;9;51;462;25.000
+159;2024-05-07;Meião;Futebol;Sul;Thiago;3;122;366;25.000
+160;2024-04-17;Camisa Dry Fit;Corrida;Norte;Vanessa;8;8;68;25.000
+161;2024-11-14;Meia Esportiva;Corrida;Centro-Oeste;Paulo;7;52;361;30.000
+162;2025-01-29;Camisa de Time;Futebol;Sul;Thiago;2;95;191;25.000
+163;2024-10-15;Luvas;Musculação;Sudeste;Neide;1;425;425;27.000
+164;2024-05-01;Boné Esportivo;Corrida;Centro-Oeste;Paulo;2;176;352;30.000
+165;2024-06-04;Regata de Time;Basquete;Norte;Vanessa;9;55;492;25.000
+166;2024-07-13;Anilha;Musculação;Norte;Vanessa;6;55;329;25.000
+167;2024-09-27;Bola de Basquete;Basquete;Centro-Oeste;Paulo;9;50;450;30.000
+168;2025-01-18;Halter;Musculação;Centro-Oeste;Paulo;7;26;182;30.000
+169;2024-12-11;Anilha;Musculação;Centro-Oeste;Paulo;6;52;315;30.000
+170;2024-06-20;Chuteira;Futebol;Sudeste;Neide;3;114;343;27.000
+171;2024-07-05;Corda de Pular;Musculação;Norte;Vanessa;6;30;181;25.000
+172;2024-07-24;Meia Esportiva;Corrida;Sul;Thiago;10;45;452;25.000
+173;2024-09-01;Chuteira;Futebol;Norte;Vanessa;4;10;42;25.000
+174;2025-02-08;Boné Esportivo;Corrida;Nordeste;Carlos;4;119;475;25.000
+175;2024-05-12;Tênis de Basquete;Basquete;Sudeste;Neide;7;46;322;27.000
+176;2024-12-10;Bola de Basquete;Basquete;Nordeste;Roberto;6;75;450;25.000
+177;2025-01-22;Bola de Basquete;Basquete;Norte;Vanessa;3;48;144;25.000
+178;2024-08-02;Camisa de Time;Futebol;Sul;Thiago;10;14;142;25.000
+179;2025-03-19;Bola de Futebol;Futebol;Centro-Oeste;Paulo;7;16;109;30.000
+180;2024-08-19;Tênis de Basquete;Basquete;Sul;Thiago;7;65;454;25.000
+181;2024-10-30;Cinto de Musculação;Musculação;Sul;Thiago;5;80;399;25.000
+182;2024-09-27;Meia Esportiva;Corrida;Sudeste;Neide;5;42;208;27.000
+183;2024-06-06;Bola de Basquete;Basquete;Sudeste;Neide;2;90;180;27.000
+184;2024-11-15;Tênis de Basquete;Basquete;Sul;Thiago;3;44;132;25.000
+185;2024-09-11;Tênis de Basquete;Basquete;Nordeste;Roberto;1;291;291;25.000
+186;2024-10-20;Anilha;Musculação;Sul;Thiago;1;397;397;25.000
+187;2024-06-03;Bola de Futebol;Futebol;Centro-Oeste;Paulo;3;137;411;30.000
+188;2024-07-31;Bola de Basquete;Basquete;Nordeste;Roberto;2;209;417;25.000
+189;2024-06-03;Meião;Futebol;Centro-Oeste;Paulo;7;7;50;30.000
+190;2024-12-09;Bermuda;Basquete;Norte;Vanessa;3;93;280;25.000
+191;2024-03-30;Halter;Musculação;Norte;Vanessa;10;37;367;25.000
+192;2024-08-11;Bermuda;Basquete;Nordeste;Roberto;10;3;31;25.000
+193;2024-08-16;Cotoveleira;Basquete;Nordeste;Roberto;10;7;68;25.000
+194;2024-07-10;Meião;Futebol;Norte;Vanessa;7;58;404;25.000
+195;2024-06-27;Bola de Futebol;Futebol;Centro-Oeste;Paulo;7;13;90;30.000
+196;2025-01-29;Meião;Futebol;Sudeste;Neide;5;28;140;27.000
+197;2025-01-13;Chuteira;Futebol;Centro-Oeste;Paulo;5;6;31;30.000
+198;2024-05-15;Short de Compressão;Corrida;Sudeste;Neide;8;40;323;27.000
+199;2025-01-25;Meia Esportiva;Corrida;Sul;Thiago;4;85;340;25.000
+200;2025-03-20;Cinto de Musculação;Musculação;Nordeste;Roberto;3;27;80;25.000
+201;2025-01-15;Bermuda;Basquete;Centro-Oeste;Paulo;4;122;486;30.000
+202;2025-02-18;Corda de Pular;Musculação;Norte;Vanessa;4;114;455;25.000
+203;2024-10-15;Cotoveleira;Basquete;Centro-Oeste;Paulo;4;70;279;30.000
+204;2024-05-22;Luvas;Musculação;Norte;Vanessa;5;38;192;25.000
+205;2024-06-20;Bermuda;Basquete;Nordeste;Roberto;6;64;386;25.000
+206;2024-08-30;Anilha;Musculação;Centro-Oeste;Paulo;6;55;332;30.000
+207;2025-03-10;Bermuda;Basquete;Centro-Oeste;Paulo;9;26;236;30.000
+208;2025-01-31;Cinto de Musculação;Musculação;Norte;Vanessa;5;59;294;25.000
+209;2024-08-03;Luvas;Musculação;Sudeste;Neide;4;120;480;27.000
+210;2024-06-01;Calção;Futebol;Nordeste;Roberto;3;43;129;25.000
+211;2024-07-22;Halter;Musculação;Nordeste;Roberto;3;139;418;25.000
+212;2024-09-17;Camisa de Time;Futebol;Sudeste;Neide;9;42;381;27.000
+213;2025-01-04;Boné Esportivo;Corrida;Nordeste;Roberto;8;50;397;25.000
+214;2024-05-23;Calção;Futebol;Norte;Vanessa;9;22;195;25.000
+215;2024-08-14;Regata de Time;Basquete;Centro-Oeste;Paulo;5;34;169;30.000
+216;2024-10-19;Short de Compressão;Corrida;Sul;Thiago;5;32;161;25.000
+217;2024-08-06;Cinto de Musculação;Musculação;Nordeste;Roberto;2;212;424;25.000
+218;2024-08-23;Cinto de Musculação;Musculação;Sul;Thiago;5;72;358;25.000
+219;2024-05-12;Camisa de Time;Futebol;Norte;Vanessa;1;154;154;25.000
+220;2024-12-28;Meia Esportiva;Corrida;Nordeste;Roberto;10;15;151;25.000
+221;2024-04-29;Meião;Futebol;Centro-Oeste;Paulo;2;124;248;30.000
+222;2025-01-12;Tênis de Basquete;Basquete;Centro-Oeste;Paulo;10;38;383;30.000
+223;2024-08-31;Tênis de Corrida;Corrida;Sudeste;Neide;2;80;160;27.000
+224;2024-04-29;Camisa Dry Fit;Corrida;Nordeste;Roberto;4;118;473;25.000
+225;2024-07-10;Boné Esportivo;Corrida;Sul;Thiago;5;5;27;25.000
+226;2024-11-16;Cinto de Musculação;Musculação;Nordeste;Roberto;10;37;366;25.000
+227;2025-02-21;Halter;Musculação;Sudeste;Neide;3;145;436;27.000
+228;2024-10-22;Boné Esportivo;Corrida;Norte;Vanessa;4;74;296;25.000
+229;2024-10-25;Boné Esportivo;Corrida;Sudeste;Neide;9;9;82;27.000
+230;2024-06-11;Calção;Futebol;Sul;Thiago;2;37;73;25.000
+231;2025-01-14;Meião;Futebol;Sudeste;Neide;6;76;455;27.000
+232;2024-05-10;Calção;Futebol;Nordeste;Roberto;9;45;406;25.000
+233;2024-07-09;Luvas;Musculação;Centro-Oeste;Paulo;5;47;233;30.000
+234;2024-11-20;Camisa Dry Fit;Corrida;Centro-Oeste;Paulo;1;427;427;30.000
+235;2025-03-12;Bermuda;Basquete;Norte;Vanessa;6;76;455;25.000
+236;2024-10-30;Meião;Futebol;Norte;Vanessa;2;93;185;25.000
+237;2024-11-04;Corda de Pular;Musculação;Centro-Oeste;Paulo;8;46;367;30.000
+238;2024-09-10;Camisa Dry Fit;Corrida;Centro-Oeste;Paulo;9;40;359;30.000
+239;2025-03-14;Camisa Dry Fit;Corrida;Norte;Vanessa;2;108;217;25.000
+240;2024-12-07;Camisa de Time;Futebol;Centro-Oeste;Paulo;1;438;438;30.000
+241;2024-12-07;Corda de Pular;Musculação;Sul;Thiago;4;22;90;25.000
+242;2024-04-04;Short de Compressão;Corrida;Centro-Oeste;Paulo;5;5;24;30.000
+243;2025-01-12;Luvas;Musculação;Nordeste;Roberto;4;38;154;25.000
+244;2024-07-06;Meia Esportiva;Corrida;Norte;Vanessa;1;305;305;25.000
+245;2024-03-24;Camisa Dry Fit;Corrida;Sudeste;Neide;9;19;170;27.000
+246;2024-09-20;Boné Esportivo;Corrida;Sudeste;Neide;6;75;449;27.000
+247;2024-11-06;Calção;Futebol;Sul;Thiago;2;146;292;25.000
+248;2024-05-09;Anilha;Musculação;Norte;Vanessa;1;477;477;25.000
+249;2024-03-29;Cotoveleira;Basquete;Centro-Oeste;Paulo;8;39;313;30.000
+250;2024-04-06;Bola de Basquete;Basquete;Sudeste;Neide;9;45;404;27.000
+251;2024-11-23;Camisa de Time;Futebol;Sudeste;Neide;1;156;156;27.000
+252;2024-08-07;Luvas;Musculação;Sul;Thiago;5;58;289;25.000
+253;2025-02-13;Luvas;Musculação;Sul;Thiago;7;57;401;25.000
+254;2024-03-25;Meia Esportiva;Corrida;Centro-Oeste;Paulo;9;28;251;30.000
+255;2024-05-03;Cinto de Musculação;Musculação;Norte;Vanessa;9;39;350;25.000
+256;2025-02-20;Bola de Basquete;Basquete;Sudeste;Neide;10;33;334;27.000
+257;2024-12-20;Bola de Futebol;Futebol;Sudeste;Neide;5;95;473;27.000
+258;2024-04-21;Tênis de Basquete;Basquete;Sul;Thiago;6;32;191;25.000
+259;2024-08-12;Luvas;Musculação;Norte;Vanessa;4;94;376;25.000
+260;2024-09-02;Meia Esportiva;Corrida;Sul;Thiago;8;12;93;25.000
+261;2024-05-09;Halter;Musculação;Sudeste;Neide;10;46;462;27.000
+262;2024-11-26;Cotoveleira;Basquete;Centro-Oeste;Paulo;9;50;448;30.000
+263;2024-07-21;Boné Esportivo;Corrida;Centro-Oeste;Paulo;4;17;68;30.000
+264;2024-09-14;Halter;Musculação;Centro-Oeste;Paulo;9;33;299;30.000
+265;2024-08-09;Bola de Basquete;Basquete;Nordeste;Roberto;1;497;497;25.000
+266;2025-03-09;Camisa de Time;Futebol;Centro-Oeste;Paulo;9;20;183;30.000
+267;2024-12-20;Chuteira;Futebol;Norte;Vanessa;5;24;121;25.000
+268;2025-02-25;Regata de Time;Basquete;Centro-Oeste;Paulo;7;49;345;30.000
+269;2024-07-11;Meia Esportiva;Corrida;Centro-Oeste;Paulo;4;48;192;30.000
+270;2025-03-09;Halter;Musculação;Centro-Oeste;Paulo;5;62;310;30.000
+271;2025-02-02;Camisa Dry Fit;Corrida;Sul;Thiago;10;14;143;25.000
+272;2024-09-23;Bola de Basquete;Basquete;Sudeste;Neide;7;34;240;27.000
+273;2024-04-16;Calção;Futebol;Sul;Thiago;6;45;272;25.000
+274;2024-07-15;Luvas;Musculação;Sul;Thiago;3;150;450;25.000
+275;2024-11-09;Meia Esportiva;Corrida;Centro-Oeste;Paulo;10;8;75;30.000
+276;2024-04-19;Short de Compressão;Corrida;Norte;Vanessa;5;62;310;25.000
+277;2024-11-10;Camisa Dry Fit;Corrida;Sul;Thiago;3;51;153;25.000
+278;2024-12-17;Regata de Time;Basquete;Sul;Thiago;6;34;201;25.000
+279;2024-05-22;Anilha;Musculação;Sudeste;Neide;4;46;184;27.000
+280;2024-06-24;Camisa de Time;Futebol;Norte;Vanessa;6;46;277;25.000
+281;2025-02-01;Cinto de Musculação;Musculação;Norte;Vanessa;2;217;434;25.000
+282;2024-06-18;Luvas;Musculação;Centro-Oeste;Paulo;6;59;351;30.000
+283;2025-01-26;Short de Compressão;Corrida;Norte;Vanessa;1;416;416;25.000
+284;2025-03-14;Meião;Futebol;Nordeste;Roberto;4;92;369;25.000
+285;2025-01-13;Luvas;Musculação;Sul;Thiago;10;24;243;25.000
+286;2024-12-26;Bola de Futebol;Futebol;Norte;Vanessa;3;125;375;25.000
+287;2024-05-11;Corda de Pular;Musculação;Sul;Thiago;3;103;309;25.000
+288;2024-09-23;Halter;Musculação;Centro-Oeste;Paulo;5;31;157;30.000
+289;2024-07-25;Anilha;Musculação;Nordeste;Roberto;1;432;432;25.000
+290;2024-10-18;Cotoveleira;Basquete;Nordeste;Roberto;10;35;353;25.000
+291;2025-02-14;Boné Esportivo;Corrida;Norte;Vanessa;4;109;437;25.000
+292;2024-08-10;Regata de Time;Basquete;Sul;Thiago;7;14;98;25.000
+293;2024-07-29;Bola de Basquete;Basquete;Sul;Thiago;4;9;34;25.000
+294;2024-05-17;Cotoveleira;Basquete;Norte;Vanessa;6;5;33;25.000
+295;2024-03-28;Bola de Basquete;Basquete;Sul;Thiago;8;42;333;25.000
+296;2024-09-17;Calção;Futebol;Sul;Thiago;1;159;159;25.000
+297;2024-04-13;Chuteira;Futebol;Sul;Thiago;3;94;283;25.000
+298;2024-04-23;Halter;Musculação;Sudeste;Neide;6;50;298;27.000
+299;2024-07-28;Halter;Musculação;Centro-Oeste;Paulo;9;25;226;30.000
+300;2024-09-16;Meia Esportiva;Corrida;Sul;Thiago;9;3;24;25.000
+301;2025-03-15;Meião;Futebol;Nordeste;Roberto;6;65;387;25.000
+302;2024-10-29;Bola de Futebol;Futebol;Nordeste;Roberto;1;484;484;25.000
+303;2024-03-21;Corda de Pular;Musculação;Nordeste;Roberto;7;46;323;25.000
+304;2025-01-21;Bermuda;Basquete;Norte;Vanessa;8;25;201;25.000
+305;2024-05-28;Calção;Futebol;Nordeste;Roberto;9;18;162;25.000
+306;2024-03-22;Halter;Musculação;Sul;Thiago;8;35;284;25.000
+307;2024-09-04;Chuteira;Futebol;Nordeste;Roberto;8;60;482;25.000
+308;2024-05-06;Camisa de Time;Futebol;Sul;Thiago;2;185;370;25.000
+309;2025-02-05;Halter;Musculação;Sul;Thiago;9;21;192;25.000
+310;2024-12-19;Regata de Time;Basquete;Nordeste;Roberto;4;96;383;25.000
+311;2024-10-04;Meião;Futebol;Nordeste;Roberto;4;124;494;25.000
+312;2024-09-08;Meia Esportiva;Corrida;Norte;Vanessa;8;13;103;25.000
+313;2024-12-26;Bermuda;Basquete;Sudeste;Neide;10;32;315;27.000
+314;2024-10-30;Camisa de Time;Futebol;Sul;Thiago;8;55;442;25.000
+315;2024-08-24;Bola de Futebol;Futebol;Sudeste;Neide;7;5;36;27.000
+316;2024-06-21;Short de Compressão;Corrida;Nordeste;Roberto;3;24;72;25.000
+317;2024-12-30;Luvas;Musculação;Nordeste;Roberto;5;88;441;25.000
+318;2024-11-24;Bermuda;Basquete;Sudeste;Neide;7;46;324;27.000
+319;2024-10-18;Calção;Futebol;Sul;Thiago;2;71;141;25.000
+320;2024-07-29;Bola de Futebol;Futebol;Norte;Vanessa;6;65;392;25.000
+321;2024-08-22;Bola de Futebol;Futebol;Sudeste;Neide;4;124;495;27.000
+322;2024-03-25;Calção;Futebol;Sudeste;Neide;4;38;151;27.000
+323;2024-08-30;Bola de Basquete;Basquete;Sudeste;Neide;8;31;247;27.000
+324;2025-02-24;Camisa de Time;Futebol;Sudeste;Neide;7;24;169;27.000
+325;2024-05-06;Meião;Futebol;Norte;Vanessa;1;354;354;25.000
+326;2025-03-10;Camisa de Time;Futebol;Nordeste;Roberto;1;154;154;25.000
+327;2024-08-27;Chuteira;Futebol;Sul;Thiago;2;101;202;25.000
+328;2024-06-08;Halter;Musculação;Sudeste;Neide;2;129;259;27.000
+329;2025-02-17;Short de Compressão;Corrida;Sudeste;Neide;2;249;498;27.000
+330;2024-08-12;Camisa de Time;Futebol;Sul;Thiago;7;43;304;25.000
+331;2024-09-10;Tênis de Basquete;Basquete;Sul;Thiago;3;94;283;25.000
+332;2024-12-02;Halter;Musculação;Sul;Thiago;5;21;104;25.000
+333;2024-04-08;Bola de Basquete;Basquete;Centro-Oeste;Paulo;1;104;104;30.000
+334;2024-09-02;Chuteira;Futebol;Centro-Oeste;Paulo;8;46;368;30.000
+335;2025-02-06;Bermuda;Basquete;Sudeste;Neide;4;84;338;27.000
+336;2024-12-10;Calção;Futebol;Norte;Vanessa;2;48;96;25.000
+337;2024-03-29;Cotoveleira;Basquete;Centro-Oeste;Paulo;7;35;248;30.000
+338;2024-12-13;Short de Compressão;Corrida;Centro-Oeste;Paulo;9;8;68;30.000
+339;2024-11-01;Corda de Pular;Musculação;Nordeste;Roberto;9;30;273;25.000
+340;2024-09-16;Calção;Futebol;Sul;Thiago;3;34;101;25.000
+341;2025-01-03;Halter;Musculação;Norte;Vanessa;6;35;208;25.000
+342;2024-09-28;Camisa de Time;Futebol;Centro-Oeste;Paulo;8;41;331;30.000
+343;2025-02-28;Bola de Futebol;Futebol;Sudeste;Neide;3;153;460;27.000
+344;2025-02-21;Anilha;Musculação;Norte;Vanessa;6;25;149;25.000
+345;2025-03-15;Cotoveleira;Basquete;Sudeste;Neide;10;8;77;27.000
+346;2025-03-16;Anilha;Musculação;Nordeste;Roberto;6;62;371;25.000
+347;2024-09-22;Bola de Basquete;Basquete;Centro-Oeste;Paulo;1;51;51;30.000
+348;2024-12-02;Bola de Futebol;Futebol;Centro-Oeste;Paulo;10;2;21;30.000
+349;2025-02-01;Boné Esportivo;Corrida;Centro-Oeste;Paulo;6;26;156;30.000
+350;2024-08-19;Halter;Musculação;Centro-Oeste;Paulo;9;39;355;30.000
+351;2024-04-09;Bermuda;Basquete;Nordeste;Roberto;5;70;352;25.000
+352;2024-07-17;Calção;Futebol;Norte;Vanessa;6;21;124;25.000
+353;2024-04-26;Corda de Pular;Musculação;Centro-Oeste;Paulo;9;26;235;30.000
+354;2025-02-27;Cinto de Musculação;Musculação;Centro-Oeste;Paulo;3;46;138;30.000
+355;2024-06-10;Cinto de Musculação;Musculação;Centro-Oeste;Paulo;4;17;69;30.000
+356;2024-03-28;Bermuda;Basquete;Nordeste;Roberto;6;50;298;25.000
+357;2024-06-29;Short de Compressão;Corrida;Norte;Vanessa;9;35;319;25.000
+358;2024-12-26;Regata de Time;Basquete;Sul;Thiago;2;133;266;25.000
+359;2024-08-21;Regata de Time;Basquete;Centro-Oeste;Paulo;10;13;127;30.000
+360;2024-10-27;Cinto de Musculação;Musculação;Nordeste;Roberto;1;30;30;25.000
+361;2024-04-13;Boné Esportivo;Corrida;Sudeste;Neide;2;104;209;27.000
+362;2024-10-06;Bermuda;Basquete;Norte;Vanessa;10;17;167;25.000
+363;2024-11-07;Bermuda;Basquete;Sul;Thiago;2;49;99;25.000
+364;2024-06-10;Camisa Dry Fit;Corrida;Sudeste;Neide;4;82;328;27.000
+365;2024-06-29;Regata de Time;Basquete;Centro-Oeste;Paulo;6;33;196;30.000
+366;2024-11-20;Anilha;Musculação;Sul;Thiago;5;99;495;25.000
+367;2024-06-03;Anilha;Musculação;Norte;Vanessa;9;13;115;25.000
+368;2025-01-09;Corda de Pular;Musculação;Centro-Oeste;Paulo;3;123;368;30.000
+369;2024-08-20;Bermuda;Basquete;Sul;Thiago;7;21;147;25.000
+370;2024-12-22;Cotoveleira;Basquete;Sul;Thiago;10;37;372;25.000
+371;2025-03-17;Chuteira;Futebol;Sul;Thiago;9;42;376;25.000
+372;2024-04-09;Camisa Dry Fit;Corrida;Norte;Vanessa;6;46;273;25.000
+373;2024-07-08;Anilha;Musculação;Centro-Oeste;Paulo;4;64;254;30.000
+374;2025-02-24;Regata de Time;Basquete;Norte;Vanessa;6;82;490;25.000
+375;2024-09-16;Camisa de Time;Futebol;Sul;Thiago;5;23;115;25.000
+376;2024-12-28;Tênis de Corrida;Corrida;Sudeste;Neide;4;7;29;27.000
+377;2024-05-29;Corda de Pular;Musculação;Norte;Vanessa;10;37;373;25.000
+378;2025-02-18;Short de Compressão;Corrida;Norte;Vanessa;6;14;84;25.000
+379;2024-07-04;Halter;Musculação;Sul;Thiago;9;43;387;25.000
+380;2024-05-10;Bola de Futebol;Futebol;Norte;Vanessa;4;101;404;25.000
+381;2024-08-15;Anilha;Musculação;Sul;Thiago;10;5;47;25.000
+382;2024-05-21;Calção;Futebol;Centro-Oeste;Paulo;9;50;453;30.000
+383;2024-11-26;Regata de Time;Basquete;Sudeste;Neide;10;33;335;27.000
+384;2024-12-11;Tênis de Corrida;Corrida;Norte;Vanessa;4;15;59;25.000
+385;2025-01-09;Cotoveleira;Basquete;Sudeste;Neide;4;64;257;27.000
+386;2024-05-03;Chuteira;Futebol;Sul;Thiago;5;5;27;25.000
+387;2024-04-04;Meião;Futebol;Nordeste;Roberto;2;39;78;25.000
+388;2024-06-19;Camisa Dry Fit;Corrida;Sul;Thiago;8;42;334;25.000
+389;2024-10-31;Tênis de Basquete;Basquete;Sul;Thiago;1;357;357;25.000
+390;2024-07-04;Short de Compressão;Corrida;Sul;Thiago;10;5;46;25.000
+391;2024-06-07;Bola de Basquete;Basquete;Centro-Oeste;Paulo;2;189;377;30.000
+392;2025-02-15;Calção;Futebol;Centro-Oeste;Paulo;9;9;82;30.000
+393;2024-11-12;Meia Esportiva;Corrida;Sul;Thiago;8;56;450;25.000
+394;2024-07-17;Luvas;Musculação;Nordeste;Roberto;2;152;305;25.000
+395;2024-11-20;Anilha;Musculação;Norte;Sarah;2;15;29;25.000
+396;2025-02-18;Bermuda;Basquete;Sudeste;Neide;5;54;270;27.000
+397;2024-12-17;Cinto de Musculação;Musculação;Norte;Sarah;4;93;374;25.000
+398;2024-07-17;Regata de Time;Basquete;Sul;Thiago;7;31;217;25.000
+399;2024-06-20;Calção;Futebol;Centro-Oeste;Regina;2;81;163;30.000
+400;2024-03-24;Cotoveleira;Basquete;Norte;Sarah;10;2;20;25.000
+401;2024-05-30;Cinto de Musculação;Musculação;Sul;Thiago;4;36;142;25.000
+402;2024-12-26;Regata de Time;Basquete;Norte;Sarah;10;25;246;25.000
+403;2025-02-11;Bola de Basquete;Basquete;Sudeste;Neide;3;104;311;27.000
+404;2024-12-27;Corda de Pular;Musculação;Centro-Oeste;Regina;2;227;454;30.000
+405;2024-05-11;Calção;Futebol;Sudeste;Neide;7;60;420;27.000
+406;2024-06-20;Calção;Futebol;Centro-Oeste;Regina;9;18;163;30.000
+407;2024-08-18;Halter;Musculação;Norte;Sarah;9;49;441;25.000
+408;2024-12-13;Cinto de Musculação;Musculação;Sul;Thiago;6;68;406;25.000
+409;2024-08-18;Bola de Futebol;Futebol;Sudeste;Neide;9;7;62;27.000
+410;2024-09-03;Camisa Dry Fit;Corrida;Nordeste;Roberto;5;21;104;25.000
+411;2024-08-03;Luvas;Musculação;Sul;Thiago;7;39;270;25.000
+412;2025-01-29;Anilha;Musculação;Sul;Thiago;7;36;250;25.000
+413;2024-04-14;Bola de Futebol;Futebol;Centro-Oeste;Regina;3;144;431;30.000
+414;2024-06-17;Camisa de Time;Futebol;Norte;Sarah;9;54;484;25.000
+415;2025-02-16;Cinto de Musculação;Musculação;Nordeste;Roberto;7;18;124;25.000
+416;2024-05-01;Anilha;Musculação;Sul;Thiago;4;39;155;25.000
+417;2024-04-19;Calção;Futebol;Nordeste;Roberto;5;31;155;25.000
+418;2024-08-09;Meião;Futebol;Sudeste;Neide;8;33;265;27.000
+419;2024-11-25;Calção;Futebol;Sudeste;Neide;5;4;20;27.000
+420;2024-09-19;Calção;Futebol;Centro-Oeste;Regina;8;28;227;30.000
+421;2024-08-07;Camisa Dry Fit;Corrida;Sul;Thiago;5;8;39;25.000
+422;2025-02-09;Halter;Musculação;Sudeste;Neide;4;116;464;27.000
+423;2025-01-21;Cinto de Musculação;Musculação;Nordeste;Roberto;8;58;466;25.000
+424;2024-12-05;Calção;Futebol;Nordeste;Roberto;3;92;275;25.000
+425;2024-10-26;Tênis de Basquete;Basquete;Sul;Thiago;7;49;343;25.000
+426;2025-01-14;Halter;Musculação;Nordeste;Roberto;5;98;492;25.000
+427;2025-02-10;Bola de Basquete;Basquete;Sudeste;Neide;7;49;343;27.000
+428;2024-12-03;Corda de Pular;Musculação;Centro-Oeste;Regina;10;25;250;30.000
+429;2024-09-23;Cotoveleira;Basquete;Nordeste;Roberto;6;13;80;25.000
+430;2024-07-01;Corda de Pular;Musculação;Sul;Thiago;5;59;297;25.000
+431;2025-01-17;Chuteira;Futebol;Centro-Oeste;Regina;2;247;495;30.000
+432;2024-05-06;Meião;Futebol;Sudeste;Neide;1;268;268;27.000
+433;2025-03-17;Cinto de Musculação;Musculação;Centro-Oeste;Regina;3;97;292;30.000
+434;2024-09-10;Halter;Musculação;Centro-Oeste;Regina;2;58;117;30.000
+435;2025-01-29;Chuteira;Futebol;Centro-Oeste;Regina;3;71;212;30.000
+436;2024-08-04;Boné Esportivo;Corrida;Nordeste;Roberto;10;26;259;25.000
+437;2024-05-26;Corda de Pular;Musculação;Norte;Sarah;8;8;66;25.000
+438;2024-09-06;Camisa Dry Fit;Corrida;Centro-Oeste;Regina;10;5;47;30.000
+439;2025-02-08;Bola de Futebol;Futebol;Sudeste;Neide;4;111;445;27.000
+440;2024-04-08;Camisa Dry Fit;Corrida;Sudeste;Neide;7;50;348;27.000
+441;2025-01-19;Bola de Futebol;Futebol;Sudeste;Neide;7;49;346;27.000
+442;2024-05-21;Meião;Futebol;Sudeste;Neide;5;42;210;27.000
+443;2024-08-28;Boné Esportivo;Corrida;Norte;Sarah;4;50;201;25.000
+444;2024-10-05;Cinto de Musculação;Musculação;Nordeste;Roberto;9;16;145;25.000
+445;2024-06-19;Regata de Time;Basquete;Nordeste;Roberto;9;23;208;25.000
+446;2024-10-06;Meia Esportiva;Corrida;Centro-Oeste;Regina;7;6;41;30.000
+447;2024-08-20;Halter;Musculação;Sul;Thiago;10;32;318;25.000
+448;2024-03-30;Calção;Futebol;Centro-Oeste;Regina;10;22;223;30.000
+449;2025-02-04;Regata de Time;Basquete;Nordeste;Roberto;6;80;479;25.000
+450;2024-07-06;Cotoveleira;Basquete;Nordeste;Roberto;9;18;159;25.000
+451;2024-05-21;Chuteira;Futebol;Nordeste;Roberto;10;4;43;25.000
+452;2024-11-14;Luvas;Musculação;Nordeste;Roberto;1;448;448;25.000
+453;2024-04-07;Tênis de Corrida;Corrida;Centro-Oeste;Regina;8;47;375;30.000
+454;2024-12-05;Corda de Pular;Musculação;Norte;Sarah;10;46;456;25.000
+455;2024-12-06;Regata de Time;Basquete;Nordeste;Roberto;7;4;31;25.000
+456;2024-09-07;Regata de Time;Basquete;Sudeste;Neide;9;52;468;27.000
+457;2024-10-19;Camisa de Time;Futebol;Sudeste;Neide;1;87;87;27.000
+458;2024-10-27;Bermuda;Basquete;Nordeste;Roberto;6;48;289;25.000
+459;2025-02-16;Bola de Futebol;Futebol;Nordeste;Roberto;8;25;199;25.000
+460;2024-07-15;Anilha;Musculação;Sudeste;Neide;10;8;76;27.000
+461;2024-10-13;Camisa de Time;Futebol;Sul;Thiago;8;54;429;25.000
+462;2024-12-19;Cotoveleira;Basquete;Centro-Oeste;Regina;8;31;246;30.000
+463;2025-02-26;Chuteira;Futebol;Sul;Thiago;10;5;50;25.000
+464;2025-03-01;Regata de Time;Basquete;Sul;Thiago;8;50;400;25.000
+465;2024-07-02;Meia Esportiva;Corrida;Centro-Oeste;Regina;3;37;111;30.000
+466;2024-10-23;Cotoveleira;Basquete;Centro-Oeste;Regina;3;157;472;30.000
+467;2024-12-02;Cinto de Musculação;Musculação;Sul;Thiago;7;61;429;25.000
+468;2024-12-12;Boné Esportivo;Corrida;Centro-Oeste;Regina;2;232;464;30.000
+469;2024-08-03;Anilha;Musculação;Nordeste;Roberto;2;80;159;25.000
+470;2025-03-20;Cotoveleira;Basquete;Sudeste;Neide;7;67;466;27.000
+471;2024-04-22;Bermuda;Basquete;Centro-Oeste;Regina;1;174;174;30.000
+472;2024-05-08;Cinto de Musculação;Musculação;Sul;Thiago;8;32;255;25.000
+473;2024-10-30;Anilha;Musculação;Norte;Sarah;10;30;298;25.000
+474;2024-07-18;Halter;Musculação;Centro-Oeste;Regina;9;51;458;30.000
+475;2024-11-12;Chuteira;Futebol;Nordeste;Roberto;1;21;21;25.000
+476;2025-03-08;Halter;Musculação;Nordeste;Roberto;1;295;295;25.000
+477;2024-08-15;Short de Compressão;Corrida;Norte;Sarah;10;28;283;25.000
+478;2024-06-17;Tênis de Basquete;Basquete;Norte;Sarah;4;50;201;25.000
+479;2024-11-25;Halter;Musculação;Sul;Thiago;10;42;422;25.000
+480;2024-12-05;Tênis de Corrida;Corrida;Sul;Thiago;6;24;147;25.000
+481;2025-01-10;Tênis de Corrida;Corrida;Sul;Thiago;1;483;483;25.000
+482;2024-12-09;Short de Compressão;Corrida;Sul;Thiago;7;67;472;25.000
+483;2025-03-18;Bola de Futebol;Futebol;Norte;Sarah;2;123;246;25.000
+484;2024-05-15;Bola de Futebol;Futebol;Centro-Oeste;Regina;3;132;396;30.000
+485;2024-06-03;Corda de Pular;Musculação;Sul;Thiago;1;39;39;25.000
+486;2024-07-09;Bola de Basquete;Basquete;Sudeste;Neide;4;61;245;27.000
+487;2024-03-29;Tênis de Corrida;Corrida;Nordeste;Roberto;7;42;292;25.000
+488;2025-01-11;Luvas;Musculação;Norte;Sarah;7;28;196;25.000
+489;2024-06-29;Meião;Futebol;Sudeste;Neide;1;418;418;27.000
+490;2024-07-31;Camisa de Time;Futebol;Nordeste;Roberto;2;238;476;25.000
+491;2025-02-18;Boné Esportivo;Corrida;Centro-Oeste;Regina;2;61;122;30.000
+492;2025-01-30;Short de Compressão;Corrida;Centro-Oeste;Regina;7;13;94;30.000
+493;2024-11-04;Bermuda;Basquete;Centro-Oeste;Regina;6;66;398;30.000
+494;2024-10-12;Tênis de Basquete;Basquete;Nordeste;Roberto;1;139;139;25.000
+495;2024-09-12;Bola de Basquete;Basquete;Sul;Thiago;1;378;378;25.000
+496;2024-06-20;Tênis de Basquete;Basquete;Centro-Oeste;Regina;5;43;217;30.000
+497;2024-03-23;Short de Compressão;Corrida;Norte;Sarah;7;22;156;25.000
+498;2024-04-16;Corda de Pular;Musculação;Nordeste;Roberto;3;131;394;25.000
+499;2025-03-20;Anilha;Musculação;Norte;Sarah;2;191;381;25.000
+500;2024-08-21;Calção;Futebol;Sul;Thiago;9;45;408;25.000
