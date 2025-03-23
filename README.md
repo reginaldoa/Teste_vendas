@@ -17,7 +17,8 @@ Imagem da base em excel.
 
 
 Mysql
+
 ![image](https://github.com/user-attachments/assets/abf43f2a-bba2-4048-9ae2-4c4f9522c297)
 
 
-Clique no link para ver o resumo dos dados no Power BI.
+Clique no link para ver a apresentação dos dados no Power BI.
