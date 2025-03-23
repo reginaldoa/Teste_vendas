@@ -27,4 +27,5 @@ https://app.powerbi.com/view?r=eyJrIjoiMjM5ZjYyM2YtZTY3Yi00MTdmLTkyNGItM2VhYTFiY
 
 
 
-Todos as fontes e arquivos utilizados no projeto, estão nesse repositório. 
+Todos as fontes e arquivos utilizados no projeto, estão nesse repositório.
+Todos os dados apresentado aqui, são fictícios.
