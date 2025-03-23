@@ -16,6 +16,12 @@ Imagem da base em excel.
 ![image](https://github.com/user-attachments/assets/5b716e70-5c62-4dcf-9c11-d0b1ad9aab87)
 
 
+A forma de importação que utilizei foi no Python, pois dessa forma, ao chegar novas planilhas de vendas, iriamos conseguir automatizar a importação, criando um arquivo EXE, que iria rodar periodicamente, dessa forma, ganhando tempo (talvez fosse necessário criar um arquivo tratado em Power query, para tratar os dados, caso essa opção fosse a escolhida).
+
+![image](https://github.com/user-attachments/assets/5bbf5d1b-438a-4d87-b790-d0e49ef96e99)
+
+
+
 Mysql
 
 ![image](https://github.com/user-attachments/assets/abf43f2a-bba2-4048-9ae2-4c4f9522c297)
