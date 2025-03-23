@@ -1,7 +1,7 @@
 # Teste_vendas
 Teste de análise de dados sobre vendas de produtos.
 
-Nesse teste, foi utilizado Excel, Power BI e Mysql.
+Nesse teste, foi utilizado Excel, Power BI , Python e Mysql.
 
 Inicialmente, criei uma base em CSV, de dados de uma empresa de comércio, onde tinha as seguintes tabelas:
 
